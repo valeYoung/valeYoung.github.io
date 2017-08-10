@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://valeyoung.github.io/"/>
-  <updated>2017-08-10T12:32:48.851Z</updated>
+  <updated>2017-08-10T16:01:41.412Z</updated>
   <id>https://valeyoung.github.io/</id>
   
   <author>
@@ -16,13 +16,19 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="https://valeyoung.github.io/2017/08/10/test/"/>
-    <id>https://valeyoung.github.io/2017/08/10/test/</id>
-    <published>2017-08-10T12:32:48.000Z</published>
-    <updated>2017-08-10T12:32:48.851Z</updated>
+    <title>HI</title>
+    <link href="https://valeyoung.github.io/2017/08/10/HI/"/>
+    <id>https://valeyoung.github.io/2017/08/10/HI/</id>
+    <published>2017-08-10T15:42:44.000Z</published>
+    <updated>2017-08-10T16:01:41.412Z</updated>
+    
+    <content type="html"><![CDATA[<p>#������ʹ���²��͵ĵ�һ��</p>
+]]></content>
     
     <summary type="html">
+    
+      &lt;p&gt;#������ʹ���²��͵ĵ�һ��&lt;/p&gt;
+
     
     </summary>
     
