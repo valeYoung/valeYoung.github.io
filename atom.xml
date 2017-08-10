@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Island</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://valeyoung.github.io/"/>
+  <updated>2017-08-10T12:32:48.851Z</updated>
+  <id>https://valeyoung.github.io/</id>
+  
+  <author>
+    <name>ValeYoung</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://valeyoung.github.io/2017/08/10/test/"/>
+    <id>https://valeyoung.github.io/2017/08/10/test/</id>
+    <published>2017-08-10T12:32:48.000Z</published>
+    <updated>2017-08-10T12:32:48.851Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
