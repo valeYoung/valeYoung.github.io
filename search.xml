@@ -5,9 +5,7 @@
     <entry>
       <title><![CDATA[test]]></title>
       <url>/2017/08/11/test/</url>
-      <content type="html"><![CDATA[<p><div id="wpac-rating"></div></p>
-<p><script type="text/javascript"><br>wpac_init = window.wpac_init || [];<br>wpac_init.push({widget: ‘Rating’, id: 6603});<br>(function() {<br>    if (‘WIDGETPACK_LOADED’ in window) return;<br>    WIDGETPACK_LOADED = true;<br>    var mc = document.createElement(‘script’);<br>    mc.type = ‘text/javascript’;<br>    mc.async = true;<br>    mc.src = ‘<a href="https://embed.widgetpack.com/widget.js">https://embed.widgetpack.com/widget.js</a>‘;<br>    var s = document.getElementsByTagName(‘script’)[0]; s.parentNode.insertBefore(mc, s.nextSibling);<br>})();<br></script><br><a href="https://widgetpack.com" class="wpac-cr" target="_blank" rel="external">Star Rating WIDGET PACK</a></p>
-]]></content>
+      <content type="html"></content>
       
         
     </entry>
